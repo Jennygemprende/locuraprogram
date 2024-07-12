@@ -1,0 +1,3 @@
+Advertencia: nombre.de.usuario tiene varios valores
+error: no se pueden sobrescribir varios valores con un solo valor
+       Utilice una expresión regular, --add o --replace-all para cambiar el nombre de usuario.
